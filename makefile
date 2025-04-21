@@ -4,7 +4,6 @@
 
 bootstrap:
 	brew install sqlite
-	brew install graphviz
 
 clean:
 	rm -rf ./dist/*.db
